@@ -108,9 +108,4 @@
 
 
 
-*Make the README.md clean, professional, beginner-friendly, and suitable for internships and entry-level roles.*
-
-*Use proper Markdown headings, bullet points, and emojis where appropriate.*
-
-
 
